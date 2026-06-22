@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Budget Tracker
 
 A modern, responsive web application for managing personal finances. Users can track income and expenses, view monthly summaries, and visualize spending patterns through interactive charts.
@@ -394,3 +395,6 @@ Created with ❤️ for personal finance management.
 
 **Version**: 1.0.0  
 **Last Updated**: June 2026
+=======
+# Personal-Budjet-Tracker
+>>>>>>> 29f2d9e2beabce6f0458a64c8591ca61b16bab68
